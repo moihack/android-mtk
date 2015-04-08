@@ -500,4 +500,7 @@
     <copyfile src="bootimage/Android.mk" dest="kernel/Android.mk" />
   </project>
   <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
+
+  <project path="device/mediatek/mt6592" name="fire855/android_device_mt6592" revision="master" />
+  <project path="vendor/mediatek/mt6592" name="fire855/android_vendor_mt6592" revision="master" />
 </manifest>
