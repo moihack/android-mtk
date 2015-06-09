@@ -471,7 +471,7 @@
   <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" />
   <project path="packages/apps/ManagedProvisioning" name="CyanogenMod/android_packages_apps_ManagedProvisioning" />
   <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms-caf" />
-  <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
+  <project path="packages/apps/Nfc" name="fire855/android_packages_apps_Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/PhoneCommon" name="CyanogenMod/android_packages_apps_PhoneCommon" />
@@ -592,6 +592,6 @@
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
   <project path="vendor/cmsdk" name="CyanogenMod/cm_platform_sdk" />
 
-  <project path="device/kingzone/k1_turbo" name="fire855/android_device_kingzone_k1-turbo" revision="cm-12.0" />
-  <project path="vendor/kingzone/k1_turbo" name="fire855/android_vendor_kingzone_k1-turbo" revision="cm-12.0" />
+  <project path="device/kingzone/k1_turbo" name="fire855/android_device_kingzone_k1-turbo" revision="cm-12.1" />
+  <project path="vendor/kingzone/k1_turbo" name="fire855/android_vendor_kingzone_k1-turbo" revision="cm-12.1" />
 </manifest>
